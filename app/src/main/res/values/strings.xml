@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MDS Recettes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recipy">RecipyActivity</string>
+    <string name="title_activity_recipe">RecipeActivity</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_recipe">AddRecipeActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="step2">Etape 2</string>
+    <string name="add_recipe_button">Ajouter la recette</string>
+    <string name="login">Connexion</string>
+    <string name="username">Pseudo</string>
+    <string name="password">Mot de passe</string>
+    <string name="submit">Valider</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="recipe_name">Nom de la recette</string>
+    <string name="author">Auteur</string>
+    <string name="category">Catégorie</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="description">Description</string>
+    <string name="recipe">Recette</string>
+    <string name="repeat_password">Répétez votre mot de passe</string>
+    <string name="registration">Inscription</string>
+    <string name="search_result">Résultat de la recherche</string>
+    <string name="step3">Etape 3</string>
+    <string name="max_char">Maximum 450 caractères</string>
+    <string name="add">Ajouter</string>
+    <string name="new_recipes">Nouvelles recettes</string>
+    <string name="best_recipes">Recettes les mieux notées</string>
+    <string name="enter_ingredients">Entrez les ingrédients que vous avez dans votre frigo, nous vous montrerons nos meilleurs recettes !</string>
+    <string name="search">Rechercher</string>
+    <string name="categories">Catégories</string>
+    <string name="recipe_search">Chercher une recette</string>
+    <string name="add_recipe">Ajouter une recette</string>
+    <string name="logout">Déconnexion</string>
+</resources>
